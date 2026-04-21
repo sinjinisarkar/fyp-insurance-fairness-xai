@@ -12,9 +12,9 @@ st.set_page_config(page_title="Motor Insurance Risk Predictor",
 # ── Load models and features ───────────────────────────────
 @st.cache_resource
 def load_models():
-    lr  = joblib.load("../models/lr_balanced.pkl")
-    rf  = joblib.load("../models/rf_balanced.pkl")
-    xgb = joblib.load("../models/xgb.pkl")
+    lr  = joblib.load("models/lr_balanced.pkl")
+    rf  = joblib.load("models/rf_balanced.pkl")
+    xgb = joblib.load("models/xgb.pkl")
     features = joblib.load("../models/feature_names.pkl")
     return lr, rf, xgb, features
 
