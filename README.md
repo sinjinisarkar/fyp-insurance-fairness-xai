@@ -8,7 +8,7 @@ A final year dissertation project at the University of Leeds, School of Computin
 
 ## Live Demo
 
-Try the deployed Streamlit application here: **[https://huggingface.co/spaces/sc23ss2/fyp-insurance-fairness](https://huggingface.co/spaces/sc23ss2/fyp-insurance-fairness)**
+Try the deployed Streamlit application here: **[https://sc23ss2-fyp-insurance-fairness.hf.space/](https://sc23ss2-fyp-insurance-fairness.hf.space/)**
 
 ---
 ## Project Overview
