@@ -94,7 +94,8 @@ This will generate the cleaned datasets and trained models.
 ### Step 6 — Run the Streamlit app
 
 ```bash
-streamlit run src/app.py
+cd src
+streamlit run app.py
 ```
 
 The app will open at `http://localhost:8501`
