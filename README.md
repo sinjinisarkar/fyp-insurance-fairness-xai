@@ -161,6 +161,9 @@ Original source: https://www.data.gov.uk/dataset/road-accidents-safety-data
 Processed datasets are included in `data/processed/` so you can skip directly to model training if preferred.
 
 ---
+[View PDF Report](./SARKAR26-FINAL.pdf)
+
+---
 ## Author
 
 **Sinjini Sarkar**
